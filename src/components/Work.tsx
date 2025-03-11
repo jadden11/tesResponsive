@@ -14,7 +14,7 @@ const Work = () => {
             {/* Gambar */}
             <div className="w-full md:w-1/2 flex justify-center">
               <img
-                src="./public/card tiketcom.svg"
+                src="/images/card tiketcom.svg"
                 alt="Real Estate Template"
                 className="w-full md:w-4/5 rounded-lg shadow-lg"
               />
@@ -66,7 +66,7 @@ const Work = () => {
             {/* Gambar */}
             <div className="w-full md:w-1/2 flex justify-center">
               <img
-                src="./public/mobileapp2.webp"
+                src="/images/mobileapp2.webp"
                 alt="Real Estate Template"
                 className="w-full md:w-4/5 rounded-lg shadow-lg"
               />
@@ -117,7 +117,7 @@ const Work = () => {
             {/* Gambar */}
             <div className="w-full md:w-1/2 flex justify-center">
               <img
-                src="./public/mobileapp.webp"
+                src="/images/mobileapp.webp"
                 alt="Real Estate Template"
                 className="w-full md:w-4/5 rounded-lg shadow-lg"
               />
