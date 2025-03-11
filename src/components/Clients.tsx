@@ -13,17 +13,17 @@ const Clients = () => {
       {/* Logo Container */}
       <div className="mt-12 flex flex-col md:flex-row justify-center gap-4 md:gap-10 px-6 md:px-10 items-center">
         <img
-          src="public/tiket.svg"
+          src="/images/tiket.svg"
           alt="Tiket"
           className="w-32 h-10 md:w-40 md:h-40"
         />
         <img
-          src="public/jakpro 1.svg"
+          src="/images/jakpro 1.svg"
           alt="Jakpro"
           className="w-32 h-10 md:w-40 md:h-40 md:-translate-y-1"
         />
         <img
-          src="public/g8.svg"
+          src="/images/g8.svg"
           alt="Jakpro"
           className="w-32 h-10 md:w-40 md:h-40 md:-translate-y-1"
         />
