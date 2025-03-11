@@ -25,7 +25,7 @@ const About = () => {
       <div className="md:w-1/2 ">
         <img
           src="/images/group 3.png"
-          alt="Music"
+          alt="About"
           className="pl-10 w-[360px] h-[430px] mx-auto"
         />
       </div>
