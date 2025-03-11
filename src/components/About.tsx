@@ -24,7 +24,7 @@ const About = () => {
       {/* Bagian Gambar */}
       <div className="md:w-1/2 ">
         <img
-          src="public/group 3.png"
+          src="/images/group 3.png"
           alt="Music"
           className="pl-10 w-[360px] h-[430px] mx-auto"
         />
